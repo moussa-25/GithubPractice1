@@ -1,0 +1,2 @@
+puplic classic Test3{
+}
