@@ -1,0 +1,2 @@
+publi classic Test4{
+}
